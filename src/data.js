@@ -1,0 +1,112 @@
+items=[{
+    id:"ab",
+    name: "Flower T-shirt",
+    price:45,
+    desc:"lorem dhfhf fhhff fhfh",
+    img:"img/products/f1.jpg"
+},
+{
+    id:"cd",
+    name: "Printed - Tshirt",
+    price:55,
+    desc:"lorem dhfhf fhhff fhfh",
+    img:"img/products/f2.jpg"},
+{
+    id:"ef",
+    name: "Printed - Tshirt",
+    price:45,
+    desc:"lorem dhfhf fhhff fhfh",
+    img:"img/products/f3.jpg"
+},
+{
+    id:"gh",
+    name: "Tshirt",
+    price:65,
+    desc:"lorem dhfhf fhhff fhfh",
+    img:"img/products/f4.jpg"
+},
+{
+    id:"ij",
+    name: "Printed - Tshirt",
+    price:74,
+    desc:"lorem dhfhf fhhff fhfh",
+    img:"img/products/f5.jpg",
+},
+{
+    id:"kl",
+    name: "Printed - Tshirt",
+    price:77,
+    desc:"lorem dhfhf fhhff fhfh",
+    img:"img/products/f6.jpg",
+
+},
+{
+    id:"mn",
+    name: "Printed - Tshirt",
+    price:80,
+    desc:"lorem dhfhf fhhff fhfh",
+    img:"img/products/f7.jpg",
+},
+{
+    id:"op",
+    name: "Printed - Tshirt",
+    price:74,
+    desc:"lorem dhfhf fhhff fhfh",
+    img:"img/products/f8.jpg",
+},
+{
+    id:"qr",
+    name: "Printed - Tshirt",
+    price:74,
+    desc:"lorem dhfhf fhhff fhfh",
+    img:"img/products/n1.jpg",
+},
+{
+    id:"st",
+    name: "Printed - Tshirt",
+    price:74,
+    desc:"lorem dhfhf fhhff fhfh",
+    img:"img/products/n2.jpg",
+},
+{
+    id:"uv",
+    name: "Printed - Tshirt",
+    price:74,
+    desc:"lorem dhfhf fhhff fhfh",
+    img:"img/products/n3.jpg",
+},
+{
+    id:"wx",
+    name: "Printed - Tshirt",
+    price:74,
+    desc:"lorem dhfhf fhhff fhfh",
+    img:"img/products/n4.jpg",
+},
+{
+    id:"yz",
+    name: "Printed - Tshirt",
+    price:74,
+    desc:"lorem dhfhf fhhff fhfh",
+    img:"img/products/n5.jpg",
+},
+{
+    id:"abc",
+    name: "Printed - Tshirt",
+    price:88,
+    desc:"lorem dhfhf fhhff fhfh",
+    img:"img/products/n6.jpg",
+},
+{
+    id:"def",
+    name: "Printed - Tshirt",
+    price:66,
+    desc:"lorem dhfhf fhhff fhfh",
+    img:"img/products/n7.jpg",
+},
+{
+    id:"ghi",
+    name: "Printed - Tshirt",
+    price:50,
+    desc:"lorem dhfhf fhhff fhfh",
+    img:"img/products/n8.jpg",
+}];
